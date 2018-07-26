@@ -1,4 +1,4 @@
-# Amidst Seed Hunter
+# Amidst Seed Hunter for 1.13+
 
 Updated!
 
@@ -6,7 +6,7 @@ Automates the hunt for seeds containing (or excluding) biomes and structures usi
 
 This is still very much alpha software. Not all of the features work and some may not quite work as expected. Please report any bugs you find.
 
-Also, if you'd like to support further development, please check out my [Patreon](https://www.patreon.com/azuntik)!
+~~Also, if you'd like to support further development, please check out my [Patreon](https://www.patreon.com/azuntik)!~~
 
 ## Installation
 
