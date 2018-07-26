@@ -17,7 +17,8 @@ No installation; it's a standalone executable. If you want to compile from sourc
 You will need to set up Amidst to work properly. Amidst Seed Hunter works by searching for the unique biome color codes, as well as the colors used in the various structures icons, in the Amidst window. For best results, please do the following prior to running Amidst Seed Hunter:
 * Turn on the grid and zoom to set the search area. If you want the biomes to appear within 2048 blocks, for instance, be sure that a square (centered on 0,0) is visible in the Amidst window. You will want to adjust the size of the window so that the seed information window is just slightly above the search area, and the icon in the lower right is just below it. Take a look at debug_image.jpg for help visualizing this.
 * Once you've set the zoom, turn off the grid.
-* If you're only concerned with biomes, you can turn off all other layers. Otherwise, add the layers for the structures you're searching for.
+* If you're only concerned with biomes, you can turn off all other layers. Otherwise, add the layers for the structures you're searching for. 
+* (To use the new search function set Time To wait below 500. Default: 100) If using this ALL layers must be **off**!
 * You're set! You can run Amidst Seed Hunter!
 
 Choose the biomes and/or structures you'd like to include in your search, as well as any you want to make sure don't appear (if desired).
@@ -45,13 +46,16 @@ If you want to search indefinitely (until you find the number of seeds you're lo
 * 24 April 2017 - v0.2.1 - Fixed a handful of bugs and added guided Amidst setup
 * 26 April 2017 - v0.2.2 - Fixed hotkey and disappearing interface bugs
 *  3 May   2017 - v0.2.3 - Code cleanup and minor GUI improvements
+* 25 July  2018 - v0.2.4 - Added Cleaner Search Function and Updated to work with 1.13
 
 **Please Note**
-v0.2.3 will be the last release of this project. I hit up against some of the limitations of AutoIT and my own limitations. I've decided to start over with a cross-platform view so that the successor to Amidst Seed Hunter will work on Windows, Mac, or Linux out of the box. You'll probably see a new repository appear in a few days as I start to work through learning how to do this. In the meantime, this final version should have most of the features that most people were looking for and should be relatively bug-free. If you'd like to continue development of this project, please feel free!
+~~v0.2.3 will be the last release of this project. I hit up against some of the limitations of AutoIT and my own limitations. I've decided to start over with a cross-platform view so that the successor to Amidst Seed Hunter will work on Windows, Mac, or Linux out of the box. You'll probably see a new repository appear in a few days as I start to work through learning how to do this. In the meantime, this final version should have most of the features that most people were looking for and should be relatively bug-free. If you'd like to continue development of this project, please feel free!~~
 
 ## Credits
 
-This was written by me, Azuntik, in AutoIt.
+This was written Azuntik, in AutoIt. (Originally)
+
+Now being updated by Zodsmar
 
 The cool "Toast" effect in the corner belongs to Melba23.
 
