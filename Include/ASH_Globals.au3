@@ -112,7 +112,7 @@ Func UpdateGlobals()
 		$structArray = IniReadSection($settingsINIFile, "StructureList")
 
 		;Make sure to not break larger searches (Gives time to AMIDST to generate the map)
-	    $timeToWait = IniRead($settingsINIFile, "Options", "Time To Wait", 1)
+	    $timeToWait = IniRead($settingsINIFile, "Options", "Time To Wait", 100)
 
 	Else
 		DoResetINIFileToDefaults(False) ; Create INI File
