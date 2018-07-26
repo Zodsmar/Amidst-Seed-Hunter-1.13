@@ -3,3 +3,4 @@ Add Multiple Biome search Or and And
 Fix Bugs
 Clean Up Code
 Add More Structure (AKA 1.13 Structures) (Searching by Size to remove false positives)
+Help always useful!

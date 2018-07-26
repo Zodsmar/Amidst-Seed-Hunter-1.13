@@ -51,6 +51,8 @@ If you want to search indefinitely (until you find the number of seeds you're lo
 **Please Note**
 ~~v0.2.3 will be the last release of this project. I hit up against some of the limitations of AutoIT and my own limitations. I've decided to start over with a cross-platform view so that the successor to Amidst Seed Hunter will work on Windows, Mac, or Linux out of the box. You'll probably see a new repository appear in a few days as I start to work through learning how to do this. In the meantime, this final version should have most of the features that most people were looking for and should be relatively bug-free. If you'd like to continue development of this project, please feel free!~~
 
+For what I plan on adding read the TODO.txt
+
 ## Credits
 
 This was written Azuntik, in AutoIt. (Originally)
