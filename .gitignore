@@ -1,0 +1,65 @@
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# =========================
+# Operating System Files
+# =========================
+
+# OSX
+# =========================
+
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+
+# Directories potentially created on remote AFP share
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+*.isn
+results.txt
+seeds.txt
+minecraft_mushroom_icon_for_window_by_xmyonli-d5q3061.ico
+Settings.ini
+Settings.ini
+test_seeds.txt
+*.ini
+Settings.ini
+*.exe
+*.ini
+Archived/Amidst Seed Hunter/Amidst_Seed_Hunter.au3
+Archived/userDefineLang_markdown.xml
+Archived/Amidst Seed Hunter/StringSize.au3
+Archived/Amidst Seed Hunter/Toast.au3
+Archived/Toast.zip
+Settings.ini
+Settings.ini
