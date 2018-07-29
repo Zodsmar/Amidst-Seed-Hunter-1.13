@@ -9,7 +9,7 @@
 ; This file is part of the Amidst Seed Hunter project
 ; =============================================================================
 
-Global $versionNumber = "0.2.4"
+Global $versionNumber = "0.2.5"
 Global $debugBuffer, $searchResults, $newSearch
 
 ; GUI control globals
@@ -79,7 +79,7 @@ Global $presetArray = []
 Global $biomeArray = []
 Global $biomeGroupArray = []
 Global $structArray = []
-Global $amidstWindowTitle = "Amidst v4.3-beta3"
+Global $amidstWindowTitle = "Amidst v4.3-beta4"
 
 Func UpdateGlobals()
 	$settingsINIFile = @ScriptDir & "\Settings.ini"
